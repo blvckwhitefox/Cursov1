@@ -1,0 +1,277 @@
+﻿[
+    {
+        "Name": "Animals",
+        "Words": [
+            {
+                "Original": "cat",
+                "Translation": "кошка",
+                "Category": "Animals"
+            },
+            {
+                "Original": "dog",
+                "Translation": "собака",
+                "Category": "Animals"
+            },
+            {
+                "Original": "bird",
+                "Translation": "птица",
+                "Category": "Animals"
+            },
+            {
+                "Original": "elephant",
+                "Translation": "слон",
+                "Category": "Animals"
+            },
+            {
+                "Original": "lion",
+                "Translation": "лев",
+                "Category": "Animals"
+            },
+            {
+                "Original": "tiger",
+                "Translation": "тигр",
+                "Category": "Animals"
+            },
+            {
+                "Original": "giraffe",
+                "Translation": "жираф",
+                "Category": "Animals"
+            },
+            {
+                "Original": "zebra",
+                "Translation": "зебра",
+                "Category": "Animals"
+            },
+            {
+                "Original": "monkey",
+                "Translation": "обезьяна",
+                "Category": "Animals"
+            },
+            {
+                "Original": "bear",
+                "Translation": "медведь",
+                "Category": "Animals"
+            }
+        ]
+    },
+    {
+        "Name": "Fruits",
+        "Words": [
+            {
+                "Original": "apple",
+                "Translation": "яблоко",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "banana",
+                "Translation": "банан",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "orange",
+                "Translation": "апельсин",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "grape",
+                "Translation": "виноград",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "pear",
+                "Translation": "груша",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "peach",
+                "Translation": "персик",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "pineapple",
+                "Translation": "ананас",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "strawberry",
+                "Translation": "клубника",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "blueberry",
+                "Translation": "черника",
+                "Category": "Fruits"
+            },
+            {
+                "Original": "raspberry",
+                "Translation": "малина",
+                "Category": "Fruits"
+            }
+        ]
+    },
+    {
+        "Name": "Vegetables",
+        "Words": [
+            {
+                "Original": "carrot",
+                "Translation": "морковь",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "tomato",
+                "Translation": "помидор",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "potato",
+                "Translation": "картофель",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "cucumber",
+                "Translation": "огурец",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "onion",
+                "Translation": "лук",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "garlic",
+                "Translation": "чеснок",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "broccoli",
+                "Translation": "брокколи",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "spinach",
+                "Translation": "шпинат",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "cabbage",
+                "Translation": "капуста",
+                "Category": "Vegetables"
+            },
+            {
+                "Original": "pepper",
+                "Translation": "перец",
+                "Category": "Vegetables"
+            }
+        ]
+    },
+    {
+        "Name": "Colors",
+        "Words": [
+            {
+                "Original": "red",
+                "Translation": "красный",
+                "Category": "Colors"
+            },
+            {
+                "Original": "blue",
+                "Translation": "синий",
+                "Category": "Colors"
+            },
+            {
+                "Original": "green",
+                "Translation": "зеленый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "yellow",
+                "Translation": "желтый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "orange",
+                "Translation": "оранжевый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "purple",
+                "Translation": "фиолетовый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "pink",
+                "Translation": "розовый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "brown",
+                "Translation": "коричневый",
+                "Category": "Colors"
+            },
+            {
+                "Original": "black",
+                "Translation": "черный",
+                "Category": "Colors"
+            },
+            {
+                "Original": "white",
+                "Translation": "белый",
+                "Category": "Colors"
+            }
+        ]
+    },
+    {
+        "Name": "Numbers",
+        "Words": [
+            {
+                "Original": "one",
+                "Translation": "один",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "two",
+                "Translation": "два",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "three",
+                "Translation": "три",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "four",
+                "Translation": "четыре",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "five",
+                "Translation": "пять",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "six",
+                "Translation": "шесть",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "seven",
+                "Translation": "семь",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "eight",
+                "Translation": "восемь",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "nine",
+                "Translation": "девять",
+                "Category": "Numbers"
+            },
+            {
+                "Original": "ten",
+                "Translation": "десять",
+                "Category": "Numbers"
+            }
+        ]
+    }
+]
